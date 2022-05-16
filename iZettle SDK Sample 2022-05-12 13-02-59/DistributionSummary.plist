@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iZettle SDK Sample.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>64DF72B69F866C3DD5FE4446A66EA9667D8623DC</string>
+				<key>dateExpires</key>
+				<string>13/04/23</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>64DF72B69F866C3DD5FE4446A66EA9667D8623DC</string>
+						<key>dateExpires</key>
+						<string>13/04/23</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>iZettlePayments.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>HB5V2VVSG7</string>
+						<key>name</key>
+						<string>NOQ EVENTS LTD</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>3.4.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>64DF72B69F866C3DD5FE4446A66EA9667D8623DC</string>
+						<key>dateExpires</key>
+						<string>13/04/23</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>iZettleSDK.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>HB5V2VVSG7</string>
+						<key>name</key>
+						<string>NOQ EVENTS LTD</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>3.4.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>HB5V2VVSG7.com.izettle.iZorn</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>HB5V2VVSG7</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>HB5V2VVSG7.com.izettle.iZorn</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>iZettle SDK Sample.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>c9c28696-9ad9-4cb1-ac48-4fead13a7027</string>
+				<key>dateExpires</key>
+				<string>11/05/23</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>HB5V2VVSG7</string>
+				<key>name</key>
+				<string>NOQ EVENTS LTD</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

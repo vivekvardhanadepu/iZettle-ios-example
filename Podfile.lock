@@ -1,0 +1,16 @@
+PODS:
+  - iZettleSDK (3.4.0)
+
+DEPENDENCIES:
+  - iZettleSDK
+
+SPEC REPOS:
+  trunk:
+    - iZettleSDK
+
+SPEC CHECKSUMS:
+  iZettleSDK: 2a377ad1ad08ea90bc8f76aa395bd159db6050d8
+
+PODFILE CHECKSUM: 83aa8a7653a070a42eca51f618e489cfc4927845
+
+COCOAPODS: 1.11.2
